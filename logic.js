@@ -38,4 +38,3 @@ const myHint = () => {
   else if (final % 2)
     document.getElementById("hint").innerHTML = "Number is Odd";
 };
-
